@@ -3,10 +3,6 @@
   <p align="center">
     This project focuses on training an emotion detector using Convolutional Neural Networks (CNN). It involves the use of popular deep learning libraries such as Keras and TensorFlow. The detector is trained on the FER2013 dataset, which contains facial expression images representing different emotions.
     <br/>
-    <br/>
-    <a href="https://github.com/tawhidmonowar/URLtoPDFConverter/issues">Report Bug</a>
-    .
-    <a href="https://github.com/tawhidmonowar/URLtoPDFConverter/issues">Request Feature</a>
   </p>
 </p>
 
