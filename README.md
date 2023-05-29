@@ -13,3 +13,17 @@
 ![Contributors](https://img.shields.io/github/contributors/mr-mamun-50/Emotion_Detection-Deep_learning?color=dark-green) ![Forks](https://img.shields.io/github/forks/mr-mamun-50/Emotion_Detection-Deep_learning?style=social) ![Stargazers](https://img.shields.io/github/stars/mr-mamun-50/Emotion_Detection-Deep_learning?style=social) ![Issues](https://img.shields.io/github/issues/mr-mamun-50/Emotion_Detection-Deep_learning) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 
 ![screenshot_profile](./screenshots/FER-2013-sample-images-for-facial-emotion-recognition.jpg)
+
+## Installation
+Before getting started, make sure to install the necessary packages by running the following commands in your terminal:
+
+```
+pip install numpy
+pip install opencv-python
+pip install keras
+pip install --upgrade tensorflow
+pip install pillow
+```
+## Dataset
+Download FER2013 dataset from below link and put in data folder under your project directory.
+-   https://www.kaggle.com/msambare/fer2013
